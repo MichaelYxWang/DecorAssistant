@@ -13,6 +13,8 @@ GitHub Repo for Fall 2021 11-777 Multimodal Machine Learning
 
 \---
 
+Midterm Assignment Link: https://www.overleaf.com/4325791175kdsznnjjyckb
+
 First Assignment Link: https://www.overleaf.com/project/614a2dc80a452cf8cb1f3593
 
 Second Assignment Link: https://www.overleaf.com/read/rmwpyfznwjqk
